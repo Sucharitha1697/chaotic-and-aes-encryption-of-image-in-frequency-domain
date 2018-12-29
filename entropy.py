@@ -1,3 +1,4 @@
+"***"
 def cubentropy(img):
     """calculate the entropy of an image"""
     histogram = img.histogram()
